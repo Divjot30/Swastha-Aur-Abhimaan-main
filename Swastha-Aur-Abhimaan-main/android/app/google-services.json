@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905823142648",
+    "project_id": "covid-project-c3f24",
+    "storage_bucket": "covid-project-c3f24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905823142648:android:dad70a88396ed398a6310d",
+        "android_client_info": {
+          "package_name": "com.example.swastha_aur_swabhimaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905823142648-5bul6v2jl553vnk19v2kdooe32982pc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW5taVqwunI-vUrZsvAXvy8hDS840WtCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905823142648-5bul6v2jl553vnk19v2kdooe32982pc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
